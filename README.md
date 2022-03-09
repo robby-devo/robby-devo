@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying in Masai (A transformation in education. Learn all the skills needed to begin a career as a software engineer at NO upfront cost.) ...
+- 🔭 I’m currently studying in Masai bootcamp.
 - 🌱 I’m currently learning JavaScript, CSS, HTML, UI libraries, and frameworks, backend technologies include servers and operating systems, programming languages, web frameworks, and databases.
 - 👯 I’m looking to collaborate on youtube.
 - 🤔 I’m looking for help with documentations.
